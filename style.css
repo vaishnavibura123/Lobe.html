@@ -31,7 +31,7 @@ header{
     display: flex;
 }
 .content{
-    width: 50%;
+    width: 35%;
     display: flex;
     justify-content: space-between;
     color: rgb(118,119,119);
